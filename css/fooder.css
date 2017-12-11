@@ -1,0 +1,27 @@
+footer {
+	width: 1366px;
+	height: 155px;
+	background: url(../imge/bg-footer.jpg) no-repeat -280px;
+	background-size: 2000px 100%;
+	position: relative;
+}
+
+footer ul {
+	position: absolute;
+	right: 70px;
+	top: 40px;
+}
+
+footer li {
+	font-size: 11px;
+	color: #415967;
+}
+
+footer li:last-of-type {
+	color: #A5A5A5;
+}
+
+footer a,
+footer span {
+	color: #568193;
+}
